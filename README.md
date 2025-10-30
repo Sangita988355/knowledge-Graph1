@@ -40,8 +40,8 @@ It extracts important entities (like names, organizations, and places) and finds
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/knowledge-graph-generator.git
-cd knowledge-graph-generator
+git clone https://github.com/Sangita988355/knowledge-Graph1.git
+cd knowledge-Graph1
 
 Install Dependencies
 
